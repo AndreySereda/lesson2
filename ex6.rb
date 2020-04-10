@@ -10,4 +10,4 @@ arr.map! do |element|
 end
 arr.unshift(a)
 arr.push(b)
-puts ar
+puts arr
